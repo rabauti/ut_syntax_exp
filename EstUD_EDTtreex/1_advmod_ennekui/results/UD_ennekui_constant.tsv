@@ -1,0 +1,9 @@
+FILE	SENTENCE_ID	TYPE	TEXT	DEPRELS
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_787/et	O	DVD-kirjutaja maksab üle 600 dollari ja tühi DVD-toorik 50 dollarit - kaks-kolm korda rohkem kui ametlik DVD-plaat .	nsubj root case nummod obl cc amod conj nummod orphan:obl punct nummod obl orphan:advmod mark amod advcl punct
+				
+EDTtreex/Traintreex/aja_horisont2000_ud28_osa_3.enhanced.treex.conllu	aja_horisont2000_870/et	O	Enne Vene-Kaukaasia sõda 19. sajandil hinnati tšetšeenide koguarvuks rohkem kui üks miljon .	case nmod obl amod nmod root nmod xcomp advcl fixed nummod obl punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_4_ud28.enhanced.treex.conllu	aja_luup200106_1195/et	O	Internetis on virtuaalriike rohkem kui Maa peal .	obl cop nsubj:cop root mark advcl case punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_5_ud28.enhanced.treex.conllu	aja_luup200106_1200/et	O	Reaalses elus on maakeral vähem kui 200 riiki .	amod obl cop root nsubj:cop fixed nummod advcl punct
+				

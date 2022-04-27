@@ -1,0 +1,76 @@
+FILE	SENTENCE_ID	TYPE	TEXT	DEPRELS
+EDTtreex/Testtreex/ilu_sauter_ud28.enhanced.treex.conllu	ilu_sauter_402/et	O	Ma isegi arvan , et nende hulgas võib olla õnnelikke rohkem kui pankurite või - minugipärast copywriterite hulgas .	nsubj advmod root punct mark ccomp case aux cop nsubj:cop advmod mark advcl cc punct advmod conj case punct
+EDTtreex/Testtreex/ilu_sauter_ud28.enhanced.treex.conllu	ilu_sauter_402/et	S	Ma arvan , et nende hulgas võib olla õnnelikke .	nsubj _ root punct mark ccomp case aux cop nsubj:cop _ _ _ _ _ _ _ _ punct
+				
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_314/et	O	Kas Venemaa mõjutab rohkem kui USA ?	advmod nsubj root advmod mark advcl punct
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_314/et	S	Venemaa mõjutab ?	_ nsubj root _ _ _ punct
+				
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_1000/et	O	Terves ilmas on neid kokku vähem kui 6000 looma .	amod obl cop nsubj:cop advmod root fixed nummod advcl punct
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_1000/et	S	Terves ilmas on neid vähem kui 6000 looma .	amod obl cop nsubj:cop _ root fixed nummod advcl punct
+				
+EDTtreex/Devtreex/ilu_orlau_ud28.enhanced.treex.conllu	ilu_orlau_166/et	O	Kristin oli veel vaid veidi rohkem kui paari meetri kaugusel .	nsubj:cop cop advmod advmod advmod advmod fixed nummod root case punct
+EDTtreex/Devtreex/ilu_orlau_ud28.enhanced.treex.conllu	ilu_orlau_166/et	S	Kristin oli paari meetri kaugusel .	nsubj:cop cop _ _ _ _ _ nummod root case punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_268/et	O	Aastatel 1990 - 1999 vähenes Tšehhis töökohtade arv vaid 12 % , mis on palju vähem kui Ungaris ja Sloveenias ning ka Venemaal .	obl nummod punct conj root obl nmod nsubj advmod nummod advmod punct nsubj:cop cop advmod acl:relcl mark advcl cc conj cc advmod conj punct
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_268/et	S	Aastatel 1990 - 1999 vähenes Tšehhis töökohtade arv .	obl nummod punct conj root obl nmod nsubj _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_904/et	O	Eksportkäive tekitab töökohti märkimisväärselt rohkem kui kodumaine käive .	nsubj root obj advmod advmod mark amod advcl punct
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_904/et	S	Eksportkäive tekitab töökohti .	nsubj root obj _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_1058/et	O	Seega oli liikumine 90ndate alguses lihtsam nii seetõttu , et töökohti oli suhteliselt rohkem kui ka seetõttu , et töötajatele esitatavad nõudmised olid madalamad .	advmod cop nsubj:cop amod obl root cc:preconj advmod punct mark nsubj:cop cop advmod advcl cc advcl conj punct mark obl acl nsubj:cop cop advcl punct
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_1058/et	S	Oli liikumine 90ndate alguses lihtsam .	_ cop nsubj:cop amod obl root _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_1209/et	O	1995 : töötasid rohkem kui 6 aastat tagasi	obl punct root advmod fixed nummod advcl case
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_1209/et	S	1995 : töötasid	obl punct root _ _ _ _ _
+				
+EDTtreex/Traintreex/aja_ml200247_osa_5_ud28.enhanced.treex.conllu	aja_ml200247_1353/et	O	Nii liha- kui ka puu- ja juurviljamüüjaid on vähem kui varasematel aastatel .	cc:preconj nsubj:cop cc advmod conj cc conj cop root mark amod advcl punct
+EDTtreex/Traintreex/aja_ml200247_osa_5_ud28.enhanced.treex.conllu	aja_ml200247_1353/et	S	Nii liha- kui puu- ja juurviljamüüjaid on vähem kui varasematel aastatel .	cc:preconj nsubj:cop cc _ conj cc conj cop root mark amod advcl punct
+				
+EDTtreex/Traintreex/tea_eesti_arst_2004_osa_4_ud28.enhanced.treex.conllu	tea_eesti_arst_2004_1654/et	O	Rohkem kui saja aasta vältel on kuldseks standardiks vererõhu mõõtmisel olnud elavhõbe-sfügmomanomeeter .	advmod fixed nummod obl case aux amod root nmod obl cop nsubj:cop punct
+EDTtreex/Traintreex/tea_eesti_arst_2004_osa_4_ud28.enhanced.treex.conllu	tea_eesti_arst_2004_1654/et	S	Saja aasta vältel on kuldseks standardiks vererõhu mõõtmisel olnud elavhõbe-sfügmomanomeeter .	_ _ nummod obl case aux amod root nmod obl cop nsubj:cop punct
+				
+EDTtreex/Traintreex/tea_AA_05_6_ud28.enhanced.treex.conllu	tea_AA_05_6_124/et	O	Igas välkmälu mäluelemendis säilitatakse üht infobitti , kuid uusimates ( nn mitmetasemelistes ) mäluelementides saab säilitada ka rohkem kui üht infobitti .	det nmod obl root nummod obj punct cc amod punct obl parataxis punct obl aux conj advmod advmod fixed nummod advcl punct
+EDTtreex/Traintreex/tea_AA_05_6_ud28.enhanced.treex.conllu	tea_AA_05_6_124/et	S	Igas välkmälu mäluelemendis säilitatakse üht infobitti , kuid uusimates ( nn mitmetasemelistes ) mäluelementides saab säilitada .	det nmod obl root nummod obj punct cc amod punct obl parataxis punct obl aux conj _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/tea_AA_05_6_ud28.enhanced.treex.conllu	tea_AA_05_6_1132/et	O	Programm ei kuluta ka väga raskete probleemide puhul isegi aeglasel 500-megahertsilisel arvutil kõigi lahenduste leidmiseks rohkem kui 15 millisekundit .	nsubj aux root advmod advmod amod obl case advmod amod amod obl det nmod obl advmod fixed nummod advcl punct
+EDTtreex/Traintreex/tea_AA_05_6_ud28.enhanced.treex.conllu	tea_AA_05_6_1132/et	S	Programm ei kuluta raskete probleemide puhul aeglasel 500-megahertsilisel arvutil kõigi lahenduste leidmiseks .	nsubj aux root _ _ amod obl case _ amod amod obl det nmod obl _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_pm20001004_osa_4_ud28.enhanced.treex.conllu	aja_pm20001004_1119/et	O	Putin kavatseb koos India liidritega alla kirjutada rohkem kui kümnele lepingule , mis reguleerivad kahe riigi vahelist koostööd majanduse , teaduse , tehnika , kultuuri valdkonnas .	nsubj root case nmod obl compound:prt xcomp advmod fixed nummod advcl punct nsubj acl:relcl nummod obl amod obj nmod punct conj punct conj punct conj nmod punct
+EDTtreex/Traintreex/aja_pm20001004_osa_4_ud28.enhanced.treex.conllu	aja_pm20001004_1119/et	S	Putin kavatseb koos India liidritega alla kirjutada .	nsubj root case nmod obl compound:prt xcomp _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_ee200110_osa_8_ud28.enhanced.treex.conllu	aja_ee200110_2269/et	O	""" Öeldakse , et pooled lähevad tülli siis , kui sisse tuleb vähem kui oodatud või rohkem kui oodatud ."	punct root punct mark nsubj ccomp advmod advmod punct mark compound:prt advcl advmod mark advcl cc conj mark advcl punct
+EDTtreex/Traintreex/aja_ee200110_osa_8_ud28.enhanced.treex.conllu	aja_ee200110_2269/et	S	""" Öeldakse , et pooled lähevad , kui sisse tuleb ."	punct root punct mark nsubj ccomp _ _ punct mark compound:prt advcl _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_ee200110_osa_4_ud28.enhanced.treex.conllu	aja_ee200110_1164/et	O	Peale Väike-Maarja mõõdetakse Eestis lund veel rohkem kui poolesajas paigas .	case obl root obl obj advmod advmod fixed nummod advcl punct
+EDTtreex/Traintreex/aja_ee200110_osa_4_ud28.enhanced.treex.conllu	aja_ee200110_1164/et	S	Peale Väike-Maarja mõõdetakse Eestis lund .	case obl root obl obj _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_ml200247_osa_3_ud28.enhanced.treex.conllu	aja_ml200247_600/et	O	Meie kogemus loeb nendele rohkem kui mõne Lääne-Euroopa riigi oma .	nmod nsubj root obl advmod mark det nmod nmod advcl punct
+EDTtreex/Traintreex/aja_ml200247_osa_3_ud28.enhanced.treex.conllu	aja_ml200247_600/et	S	Meie kogemus loeb nendele .	nmod nsubj root obl _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_789/et	O	Rohkem kui rahvuslik omapära läheb neile korda isiksus .	advmod mark amod advcl root obl obl nsubj punct
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_789/et	S	Läheb neile korda isiksus .	_ _ _ _ root obl obl nsubj punct
+				
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_841/et	O	Surmaga lõppevaid õnnetusjuhtumeid on Eestis kaks korda rohkem kui Soomes .	obl acl nsubj:cop cop root nummod obl advmod mark advcl punct
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_841/et	S	Surmaga lõppevaid õnnetusjuhtumeid on Eestis .	obl acl nsubj:cop cop root _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_907/et	O	"Riik toetas "" Lurjuse "" väntamist kokku rohkem kui kolme miljoni krooniga ."	nsubj root punct nmod punct obj advmod advmod fixed compound nummod advcl punct
+EDTtreex/Traintreex/aja_ee199920_osa2_ud28.enhanced.treex.conllu	aja_ee199920_907/et	S	"Riik toetas "" Lurjuse "" väntamist ."	nsubj root punct nmod punct obj _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/ilu_remsu_ud28.enhanced.treex.conllu	ilu_remsu_196/et	O	Ühendust linnade vahel peetakse siin tihti lennukiga , nõnda et Ürümchi lennuväli teenindab palju provintsisiseseid liine , rohkem kui ükski teine lennuväli Hiinas .	obj nmod case root advmod advmod obl punct advmod fixed nmod nsubj conj advmod amod obj punct advmod mark det det advcl nmod punct
+EDTtreex/Traintreex/ilu_remsu_ud28.enhanced.treex.conllu	ilu_remsu_196/et	S	Ühendust linnade vahel peetakse lennukiga , Ürümchi lennuväli teenindab provintsisiseseid liine .	obj nmod case root _ _ obl punct _ _ nmod nsubj conj _ amod obj _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_348/et	O	Mis puutub rahvuslikku omapärasse , siis pole ka näiteks Lätis või teistes endistes liiduvabariikides protestiaktsioone rohkem kui Eestis .	nsubj advcl amod obl punct advmod cop advmod advmod obl cc det amod conj nsubj:cop root mark advcl punct
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_348/et	S	Mis puutub rahvuslikku omapärasse , pole Lätis või teistes endistes liiduvabariikides protestiaktsioone rohkem kui Eestis .	nsubj advcl amod obl punct _ cop _ _ obl cc det amod conj nsubj:cop root mark advcl punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_390/et	O	Kusjuures elamuste ja emotsioonide eest makstakse kordi rohkem kui kaupade ja teenuste eest .	advmod obl cc conj case root obl advmod mark advcl cc conj case punct
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_390/et	S	Elamuste ja emotsioonide eest makstakse .	_ obl cc conj case root _ _ _ _ _ _ _ punct
+				
+EDTtreex/Traintreex/aja_pm20001004_osa_1_ud28.enhanced.treex.conllu	aja_pm20001004_156/et	O	""" Muidu teavad noored uimastitest rohkem kui meedik , "" tõdes ta ."	punct advmod root nsubj obl advmod fixed advcl punct punct parataxis nsubj punct
+EDTtreex/Traintreex/aja_pm20001004_osa_1_ud28.enhanced.treex.conllu	aja_pm20001004_156/et	S	""" teavad noored uimastitest , "" tõdes ta ."	punct _ root nsubj obl _ _ _ punct punct parataxis nsubj punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_116/et	O	Need on kodanikud , kelle jõukuse tase on pool või veelgi vähem kui sissetuleku ning ealise kategooria järgi eeldada võiks .	nsubj:cop cop root punct nmod nmod nsubj:cop cop acl:relcl cc advmod conj mark obl cc amod conj case advcl aux punct
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_116/et	S	Need on kodanikud , kelle jõukuse tase on pool või vähem kui sissetuleku ning ealise kategooria järgi eeldada võiks .	nsubj:cop cop root punct nmod nmod nsubj:cop cop acl:relcl cc _ conj mark obl cc amod conj case advcl aux punct
+				
+EWTBtreex/Traintreex/hfoorum3_ud28.enhanced.ref.treex.conllu	hfoorum_1369/et	O	( loodan , et tuleb keegi ja ütleb , et sai vähem kui 66 )	punct root punct mark ccomp nsubj cc conj punct mark ccomp advmod fixed obl punct
+EWTBtreex/Traintreex/hfoorum3_ud28.enhanced.ref.treex.conllu	hfoorum_1369/et	S	( loodan , et tuleb keegi ja ütleb , et sai )	punct root punct mark ccomp nsubj cc conj punct mark ccomp _ _ _ punct
+				
