@@ -1,9 +1,71 @@
 FILE	SENTENCE_ID	TYPE	TEXT	DEPRELS
+EDTtreex/Testtreex/aja_pm20000218_osa_3_ud28.enhanced.treex.conllu	aja_pm20000218_666/et	O	Oluliselt vähem kui Eesti Kunstimuuseumi mammutprojekt .	advmod amod mark nmod nmod root punct
+				
+EDTtreex/Testtreex/aja_ee199920_osa5_ud28.enhanced.treex.conllu	aja_ee199920_2280/et	O	Islandi saarevabariigis elab inimesi umbes sama palju kui Tallinnas eestlasi , kuid rahvusvaheliselt tunnustatud muusikuid rohkem kui kogu Baltikumis kokku .	amod obl root nsubj advmod det advmod mark orphan:obl advcl punct cc advmod acl conj orphan:advmod mark det advcl advmod punct
+				
 EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_787/et	O	DVD-kirjutaja maksab üle 600 dollari ja tühi DVD-toorik 50 dollarit - kaks-kolm korda rohkem kui ametlik DVD-plaat .	nsubj root case nummod obl cc amod conj nummod orphan:obl punct nummod obl orphan:advmod mark amod advcl punct
+				
+EDTtreex/Devtreex/aja_luup200009_ud28.enhanced.treex.conllu	aja_luup200009_1000/et	O	Terves ilmas on neid kokku vähem kui 6000 looma .	amod obl cop nsubj:cop advmod root fixed nummod advcl punct
+				
+EDTtreex/Devtreex/tea_eesti_arst_2004_osa_1_ud28.enhanced.treex.conllu	tea_eesti_arst_2004_309/et	O	Ägeda algusega vaskulaarne dementsus kujuneb kiiresti pärast korduvaid ajuinsulte ( tavaliselt kohe , kuid mitte rohkem kui 3 kuu jooksul ) ning põhjustab tüüpilistel juhtudel olulise sensomotoorse kõnehäire ja järsult alanud kognitiivse võimekuse vähenemise .	amod nmod amod nsubj root advmod case acl obl punct advmod parataxis punct cc advmod conj fixed nummod advcl case punct cc conj amod obl amod amod obj cc advmod acl amod nmod conj punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_268/et	O	Aastatel 1990 - 1999 vähenes Tšehhis töökohtade arv vaid 12 % , mis on palju vähem kui Ungaris ja Sloveenias ning ka Venemaal .	obl nummod punct conj root obl nmod nsubj advmod nummod advmod punct nsubj:cop cop advmod acl:relcl mark advcl cc conj cc advmod conj punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_508/et	O	Vähesel määral on ka rahvuslikke ja soolisi erinevusi - eestlased on enam kõrvaltöödega hõivatud kui venelased , mehed veidi enam kui naised .	amod root cop advmod amod cc conj nsubj:cop punct obj aux advmod obl parataxis mark advcl punct conj advmod orphan:advmod mark orphan:advcl punct
+				
+EDTtreex/Traintreex/tea_toohoive_ud28.enhanced.treex.conllu	tea_toohoive_1058/et	O	Seega oli liikumine 90ndate alguses lihtsam nii seetõttu , et töökohti oli suhteliselt rohkem kui ka seetõttu , et töötajatele esitatavad nõudmised olid madalamad .	advmod cop nsubj:cop amod obl root cc:preconj advmod punct mark nsubj:cop cop advmod advcl cc advcl conj punct mark obl acl nsubj:cop cop advcl punct
 				
 EDTtreex/Traintreex/aja_horisont2000_ud28_osa_3.enhanced.treex.conllu	aja_horisont2000_870/et	O	Enne Vene-Kaukaasia sõda 19. sajandil hinnati tšetšeenide koguarvuks rohkem kui üks miljon .	case nmod obl amod nmod root nmod xcomp advcl fixed nummod obl punct
 				
+EDTtreex/Traintreex/aja_horisont2000_ud28_osa_3.enhanced.treex.conllu	aja_horisont2000_889/et	O	Tšetšeenias elab neist sõja tõttu vähem kui pool , mõningatel andmetel 350 000 või isegi vähem .	obl root obl obl case advcl fixed obl punct det orphan:obl compound conj cc advmod conj punct
+				
+EDTtreex/Traintreex/ilu_kanep_ud28.enhanced.treex.conllu	ilu_kanep_1099/et	O	Näitusega on küll see halb asi , et külastaja ei viitsi tavaliselt pikki pildiallkirju lugeda , aga sõnaline tekst on sellise asja juures rohkem kui pool teksti .	root cop advmod det amod nsubj:cop punct mark nsubj aux acl advmod amod obj xcomp punct cc amod nsubj:cop cop det obl case conj mark nummod advcl punct
+				
 EDTtreex/Traintreex/aja_luup200106_osa_4_ud28.enhanced.treex.conllu	aja_luup200106_1195/et	O	Internetis on virtuaalriike rohkem kui Maa peal .	obl cop nsubj:cop root mark advcl case punct
 				
+EDTtreex/Traintreex/aja_luup200106_osa_4_ud28.enhanced.treex.conllu	aja_luup200106_1198/et	O	Niinimetatud mikronatsioone , kellest osa ka ÜVOsse kuulub , on ainuüksi Saksamaal enam kui poolsada , mujal Euroopas veel kümneid .	advmod nsubj:cop punct nmod nsubj advmod obl acl:relcl punct cop advmod obl root fixed obl punct advmod obl advmod conj punct
+				
+EDTtreex/Traintreex/aja_ml200247_osa_5_ud28.enhanced.treex.conllu	aja_ml200247_1353/et	O	Nii liha- kui ka puu- ja juurviljamüüjaid on vähem kui varasematel aastatel .	cc:preconj nsubj:cop cc advmod conj cc conj cop root mark amod advcl punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_1_ud28.enhanced.treex.conllu	aja_luup200202_92/et	O	Pärast seda , kui aknad said vahetatud ja radiaatorikraanid annavad sõltuvalt aknatagusest ilmast reguleerida , kulub Pelgulinnas ühe ruutmeetri kütmiseks kõigest 60 krooni aastas : “ See on umbes 1,4-1,7 korda vähem kui enamikus haiglates . ”	case obl punct mark obj aux advcl cc nsubj conj advmod amod obl advcl punct root obl nummod nmod obl advmod nummod obl nmod punct punct nsubj:cop cop advmod nummod obl parataxis mark nmod advcl punct punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_1_ud28.enhanced.treex.conllu	aja_luup200202_99/et	O	Võrdlus näitab , et vähem kui 5 % kommunaalkuludele on Eesti tingimustes väga hea näitaja .	nsubj root punct mark advcl fixed nummod obl obl cop nmod obl advmod amod ccomp punct
+				
+EDTtreex/Traintreex/tea_eesti_arst_2004_osa_4_ud28.enhanced.treex.conllu	tea_eesti_arst_2004_1635/et	O	Vähem kui neljandik uuritutest ( 23,7 % ) hindas oma und rahuldavaks ning vaid 7 % üliõpilasi hindas oma une kvaliteeti pigem halvaks või halvaks .	nsubj mark advcl acl punct nummod parataxis punct root nmod obj xcomp cc advmod nummod advmod nsubj conj nmod nmod obj advmod xcomp cc conj punct
+				
+EDTtreex/Traintreex/aja_ee200110_osa_3_ud28.enhanced.treex.conllu	aja_ee200110_786/et	O	BMFi tehtud uuring näitas , et sellest teenusest huvitatuid on rohkem kui näiteks internetikaubamajadest ostjaid .	obl acl nsubj root punct mark det nmod nsubj:cop cop ccomp mark advmod nmod advcl punct
+				
 EDTtreex/Traintreex/aja_luup200106_osa_5_ud28.enhanced.treex.conllu	aja_luup200106_1200/et	O	Reaalses elus on maakeral vähem kui 200 riiki .	amod obl cop root nsubj:cop fixed nummod advcl punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_5_ud28.enhanced.treex.conllu	aja_luup200106_1261/et	O	Seal oli enam kui 100 noort !	root cop nsubj:cop fixed nummod advcl punct
+				
+EDTtreex/Traintreex/aja_pm19980926e_ud28.enhanced.treex.conllu	aja_pm19980926_52/et	O	Arvan , et seesuguseid nuputamissaateid võiks olla enam kui mõni .	root punct mark amod nsubj:cop aux cop ccomp fixed advcl punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_309/et	O	Selliseid üritusi , kus meeleavaldajaid oli rohkem kui sada , oli viie aasta peale kokku 49 .	det nsubj:cop punct mark nsubj:cop cop acl fixed advcl punct cop nummod obl case advmod root punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_2_ud28.enhanced.treex.conllu	aja_luup200202_348/et	O	Mis puutub rahvuslikku omapärasse , siis pole ka näiteks Lätis või teistes endistes liiduvabariikides protestiaktsioone rohkem kui Eestis .	nsubj advcl amod obl punct advmod cop advmod advmod obl cc det amod conj nsubj:cop root mark advcl punct
+				
+EDTtreex/Traintreex/aja_ee200110_osa_7_ud28.enhanced.treex.conllu	aja_ee200110_1831/et	O	Kirjanike hulgas on olnud küll joodikuid , kuid tõsine , pea teaduslik tegelemine viinamarjadest saadud jookidega , mille austajaid viis aastat tagasi oli tunduvalt vähem kui praegu , oli ikkagi üllatav .	root case aux cop advmod nsubj:cop punct cc amod punct advmod conj nsubj:cop obl acl nmod punct nmod nsubj:cop nummod obl case cop advmod acl:relcl mark advcl punct cop advmod conj punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_6_ud28.enhanced.treex.conllu	aja_luup200106_1596/et	O	Üle-eelmise aasta 28 S-Mercedese asemel läks mullu kaubaks vaid kaks S-klassi autot rohkem , samas osteti kuus Audi lipulaeva A8 , see on aga tervelt kaks korda enam kui eelmisel aastal .	amod nmod nummod obl case root advmod xcomp advmod nummod nmod obl advmod punct advmod conj nummod nmod obj appos punct nsubj:cop cop advmod advmod nummod obl conj mark amod advcl punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_116/et	O	Need on kodanikud , kelle jõukuse tase on pool või veelgi vähem kui sissetuleku ning ealise kategooria järgi eeldada võiks .	nsubj:cop cop root punct nmod nmod nsubj:cop cop acl:relcl cc advmod conj mark obl cc amod conj case advcl aux punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_140/et	O	Pangamiljonär on valdavalt abielus ning rohkem kui kolmel neljandikul sirgub peres vähemalt kaks last .	nsubj:cop cop advmod root cc advcl fixed compound obl conj obl advmod nummod nsubj punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_143/et	O	Samal ajal on üle kuuekümneaastaseid pangamiljonäre meil kaks korda rohkem kui alla neljakümneaastaseid .	det obl cop advmod amod nsubj:cop obl nummod obl root fixed advmod advcl punct
+				
+EDTtreex/Traintreex/aja_luup200106_osa_1_ud28.enhanced.treex.conllu	aja_luup200106_289/et	O	Eestlane pole sugugi vaene kui kirikurott , ligikaudu 50 000-l meie seast on kinnisvara enam kui miljoni jagu .	nsubj:cop cop advmod root mark advcl punct advmod obl goeswith nmod case cop nsubj:cop conj fixed nummod advcl punct
+				
+EDTtreex/Traintreex/aja_ee199920_osa3_ud28.enhanced.treex.conllu	aja_ee199920_996/et	O	Ise alles tee esimesel poolel , vaevu kolmekümnekolmene , oli ta jõudnud neid sooritada juba tuhandeid , rohkem kui enamik professionaale poole pikema eluea vältel .	nsubj:cop advmod nmod amod advcl punct advmod conj punct aux nsubj root obj xcomp advmod obl punct conj mark nmod advcl obl amod obl case punct
+				
+EDTtreex/Traintreex/aja_luup200202_osa_3_ud28.enhanced.treex.conllu	aja_luup200202_847/et	O	Reformide edukust Ungaris ja Sloveenias , aga ka Eestis , Lätis ja Leedus näitab see , et neis riikides on vähem kui kümnendik ettevõtteid püüdnud endale riigiametnikelt pististe abil konkurentidega võrreldes soodsamaid tingimusi välja kaubelda .	nmod obj nmod cc conj punct cc advmod conj punct conj cc conj root nsubj punct mark det obl aux nsubj fixed nummod advcl conj obl obl obl case obl advcl amod obj compound:prt xcomp punct
+				
+EWTBtreex/Testtreex/ewtb2_079135.ud28.enhanced.ref.treex.conllu	ewtb2_079135_1/et	O	J - - > M on pretendente ilselgelt rohkem kui Makuuchis vakantsi tekib .	obl punct punct punct flat cop nsubj:cop advmod root mark obl nsubj advcl punct
+				
+EWTBtreex/Traintreex/sfoorum1.enhanced.treex.conllu	sfoorum_167/et	O	Samas kui peab valima siis ma valin Saku , sest sakul on lihtsalt mõned head õlled rohkem kui A.Le Coq'il .	advmod mark aux advcl advmod nsubj root obj punct mark obl cop advmod det amod nsubj:cop advcl mark advcl flat punct
+				
+EWTBtreex/Traintreex/tfoorum1_ud28.enhanced.ref.treex.conllu	tfoorum_236/et	O	Eksootikat võiks tõesti rohkem kui tavaliselt olla , aga see on juba korraldajate ja autofirmade otsustada . TB .	nsubj:cop aux advmod root mark advcl cop punct cc nsubj aux advmod obl cc conj conj punct parataxis punct
+				
+EWTBtreex/Traintreex/ewtb1_100006.ud28.enhanced.ref.treex.conllu	ewtb1_100006_30/et	O	Tee pilte enne oma koduõuest , kus on prahti ja laga rohkem kui mujal ja siis alles mine mujale pildistama .	root obj advmod nmod obl punct mark cop nsubj:cop cc conj acl mark advcl cc advmod advmod conj advmod xcomp punct
 				
